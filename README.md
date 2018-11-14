@@ -2,9 +2,10 @@
 # HTML5 Boot Camp
 
 ## The future of Web Applications is here!
-### Are you ready for it?
 
-#### Index
+Are you ready for it?
+
+### Index
 
 1. [Objective](#objective)
 
@@ -18,30 +19,29 @@
 
 6. [Handling advanced Developers](#handling-advanced-developers)
 
-7. [Materials](#materials)
+7. [Tools](#tools)
 
 8. [General Guidelines](#general-guidelines)
 
-9. [Proposed Test Applications](#proposed-test-applications)
+9. [Learning Days](#learning-days)
 
-10. [Environment Setup & Tools](#tools)
+    * [Topic 0: HTML & CSS Basics](#topic0)
 
-11. [Learning Days](#learning-days)
+    * [Topic 1: JavaScript, and DOM APIs](#topic1)
 
-    * [Topic 0: HTML & CSS Basics](#topic-0-html--css-basics)
+    * [Topic 2: Design Patterns and OOP in JavaScript](#topic2)
 
-    * [Topic 1: JavaScript, and DOM APIs](#topic-1-javascript-intro-and-jquery)
+    * [Topic 3: HTML5 APIs](#topic3)
 
-    * [Topic 2: OOP and Inheritance in JavaScript](#topic-2-design-patterns-and-oop-in-javascript-3-days)
+    * [Topic 4: UI - ReactJS](#topic4)
 
-    * [Topic 3: MVC - AngularJS](#topic-3-mvc---angularjs)
+    * [Topic 5: Unit Tests](#topic5)
+    
+    * [Topic 6: MVC - AngularJS](#topic6) *(Optional)*
 
-    * [Topic 4: HTML5 APIs](#topic-4-html5-apis)
+10. [Your First Project Starts Now](#your-first-project-starts-now)
 
-    * [Topic 5 (Optional): UI - ReactJS](#topic-5-optional-ui---reactjs)
-
-
-12. [Your First Project Starts Now!](#bookmark=id.605681dc8138)
+11. [Moving Forward](#forward)
 
 ### Objective
 
